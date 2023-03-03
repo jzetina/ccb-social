@@ -10,6 +10,9 @@ export type KnownChannelTypes =
   | typeof CHANNEL_TYPES.TELEGRAM
   | typeof CHANNEL_TYPES.TWITTER
   | typeof CHANNEL_TYPES.WEBSITE
+  | typeof CHANNEL_TYPES.TIKTOK
+  | typeof CHANNEL_TYPES.WHATSAPP
+  | typeof CHANNEL_TYPES.FACEBOOK
   | typeof CHANNEL_TYPES.YOUTUBE;
 
 export type KnownChannelItem = {

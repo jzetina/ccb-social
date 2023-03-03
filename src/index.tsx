@@ -6,53 +6,46 @@ import './css/normalize.css';
 
 const items = [
   {
-    title: 'Website',
-    subtitle: 'Look at my work!',
-    type: CHANNEL_TYPES.WEBSITE,
-    link: 'https://sagniksahoo.codes', //your personal website or portfolio  link
+    title: 'Telegram',
+    subtitle: '@crowncitybets | Si tienes alguna consulta, este es el lugar indicado.',
+    type: CHANNEL_TYPES.TELEGRAM,
+    link: 'https://t.me/crowncitybets', //Telegram Pofile
   },
   {
-    title: 'GitHub',
-    subtitle: '@heysagnik | 🏡 to all my open-source projects',
-    type: CHANNEL_TYPES.GITHUB,
-    link: 'https://github.com/heysagnik', //Github Profile link
+    title: 'WhatsApp',
+    subtitle: '(999) 262 6411 | ¿No tienes Telegram? Prueba nuestro canal secundario de atención.',
+    type: CHANNEL_TYPES.WHATSAPP,
+    link: 'https://bit.ly/wa-ccb', //WhatsApp Pofile
+  },
+  {
+    title: 'Crown City Bets',
+    subtitle: '¡Dale Click A Tu Suerte!',
+    type: CHANNEL_TYPES.WEBSITE,
+    link: 'https://crowncitybets.mx', // your personal website or portfolio link
+  },
+  {
+    title: 'Facebook',
+    subtitle: '@citybetsmx | Síguenos en Facebook',
+    type: CHANNEL_TYPES.FACEBOOK,
+    link: 'https://www.facebook.com/citybetsmx', //Facebook Pofile
   },
   {
     title: 'Instagram',
-    subtitle: '@heysagnik |  Shots of my life 🙂',
+    subtitle: '@crowncitybets | Síguenos en Instagram',
     type: CHANNEL_TYPES.INSTAGRAM,
-    link: 'https://instagram.com/heysagnik', //instagram profile link
+    link: 'https://www.instagram.com/crowncitybets/', //instagram profile link
   },
   {
     title: 'Twitter',
-    subtitle: '@heysagnik | 😉',
+    subtitle: '@citybetsmx | Síguenos en Twitter',
     type: CHANNEL_TYPES.TWITTER,
-    link: 'https://twitter.com/heysagnik', // twitter profile link
+    link: 'https://twitter.com/CityBetsMx', // twitter profile link
   },
   {
-    title: 'LinkedIn',
-    subtitle: 'Know more about my profession 👨‍💼',
-    type: CHANNEL_TYPES.LINKEDIN,
-    link: 'https://www.linkedin.com/in/heysagnik/', // linkedin
-  },
-  {
-    title: 'YouTube',
-    subtitle: 'CODER SAGNIK | Official channel of mine',
+    title: 'TikTok',
+    subtitle: '@citybetsmx | Síguenos en TikTok',
     type: CHANNEL_TYPES.YOUTUBE,
-    link: 'https://www.youtube.com/channel/UCOUa9hvd4sJWQWQRIQctbSg', //youtube channel link
-  },
-
-  {
-    title: 'Dribbble',
-    subtitle: '@virtuonic | shots of dezigns ',
-    type: CHANNEL_TYPES.DRIBBLE,
-    link: 'https://dribbble.com/virtuonic', // Dribbble profile link
-  },
-  {
-    title: 'Telegram',
-    subtitle: '@heysagnik | Chat with me instantly ',
-    type: CHANNEL_TYPES.TELEGRAM,
-    link: 'https://telegram.me/heysagnik', //Telegram Pofile
+    link: 'https://www.tiktok.com/@citybetsmx', //youtube channel link
   },
 ];
 
