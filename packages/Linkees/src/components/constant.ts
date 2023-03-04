@@ -8,6 +8,7 @@ import telegram from '../assets/telegram.png';
 import twitter from '../assets/twitter.png';
 import tiktok from '../assets/tiktok.png';
 import whatsapp from '../assets/whatsapp.png';
+import facebook from '../assets/facebook.png';
 
 import { CHANNEL_TYPES } from '../constants';
 
@@ -20,6 +21,7 @@ export const CHANNEL_TYPE_VS_COVER_IMAGE = {
   [CHANNEL_TYPES.GITHUB]: github,
   [CHANNEL_TYPES.TELEGRAM]: telegram,
   [CHANNEL_TYPES.TWITTER]: twitter,
+  [CHANNEL_TYPES.FACEBOOK]: facebook,
   [CHANNEL_TYPES.TIKTOK]: tiktok,
   [CHANNEL_TYPES.WHATSAPP]: whatsapp,
 };

@@ -1,5 +1,5 @@
 #!/bin/sh
-package_name='linkees'
+package_name='ccb-social'
 
 npm run clean
 npm run build
